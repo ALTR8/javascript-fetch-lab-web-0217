@@ -1,5 +1,7 @@
 # Created by https://www.gitignore.io/api/node
 
+application.js
+
 ### Node ###
 # Logs
 logs
